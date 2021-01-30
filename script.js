@@ -1,0 +1,1 @@
+document.getElementById('surprise').innerText = "Surprise!"
